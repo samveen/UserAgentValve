@@ -65,9 +65,13 @@ For Running:
 
 - Send me a fraction of that Money
 
+# Thanks
+
+ - [Michael McKenna][6] for his `gh release` research, which saved me a couple of hours at the least.
 
   [1]: https://github.com/samveen/UserAgentValve
   [2]: https://github.com/Keetmalin/Tomcat-Valve-Example/blob/master/README.md
   [3]: https://github.com/apache/tomcat/blob/11.0.x/java/org/apache/catalina/valves/RemoteIpValve.java
   [4]: https://maven.apache.org/download.cgi
   [5]: https://tomcat.apache.org/download-11.cgi
+  [6]: https://michael-mckenna.com/how-to-upload-file-to-github-release-in-a-workflow/
